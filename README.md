@@ -1,0 +1,2 @@
+# ghostscan
+Simple network scanner
